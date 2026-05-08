@@ -62,4 +62,5 @@ Desktop.ini
 *.iml
 
 # VS Code
-.vscode/
+.vscode/.env
+Practice-files/.env
