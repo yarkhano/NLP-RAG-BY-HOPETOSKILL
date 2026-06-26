@@ -1,0 +1,1597 @@
+Section 2 Clinical Syndromes: 
+Community-Acquired Infections
+126
+Pneumonia
+Lionel A. Mandell, Michael S. 
+Niederman
+category has not reliably predicted infection with resistant patho
+gens and has been associated with increased use of broad-spectrum 
+antibiotics, particularly those employed for treatment of methicillin- 
+resistant Staphylococcus aureus (MRSA) and antipseudomonal β-lactams. 
+Accordingly, use of the HCAP category should be discontinued. Rather 
+than relying on a predefined subset of pneumonia cases, it is better to 
+assess patients individually on the basis of risk factors for infection 
+with a resistant organism. Risk factors for infection with MRSA and 
+Pseudomonas aeruginosa include prior isolation of the organism, 
+particularly from the respiratory tract during the preceding year, and/
+or hospitalization and treatment with an antibiotic in the previous  
+90 days.
+Pneumonia caused by macroaspiration of oropharyngeal or gastric 
+contents, usually referred to as aspiration pneumonia, is best thought 
+of as a point on the continuum that includes CAP and HAP. Estimates 
+suggest that aspiration pneumonia accounts for 5–15% of CAP cases, 
+but reliable figures for HAP are unavailable. The airways or pulmonary 
+parenchyma may be involved, and patients usually represent a clinical 
+phenotype with risk factors for macroaspiration and involvement of 
+characteristic anatomic pulmonary locations.
+PATHOPHYSIOLOGY
+Pneumonia is the result of the proliferation of microbial pathogens 
+at the alveolar level and the host’s response to them. Until recently, it  
+was thought that the lungs were sterile and that pneumonia resulted 
+from the introduction of potential pathogens into this sterile environ
+ment. Typically, this introduction occurred through microaspiration of 
+oropharyngeal organisms into the lower respiratory tract. Overcoming 
+of innate and adaptive immunity by such microorganisms could result 
+in the clinical syndrome of pneumonia.
+Recent use of culture-independent techniques of microbial identifi
+cation has demonstrated a complex and diverse community of bacteria 
+in the lungs that constitutes the lung microbiota. Awareness of this 
+microbiota has prompted a rethinking of how pneumonia develops. 
+Mechanical factors, such as the hairs and turbinates of the nares, the 
+branching tracheobronchial tree, mucociliary clearance, and gag and 
+cough reflexes, all play a role in host defense but are insufficient to 
+effectively block bacterial access to the lower airways. In the absence 
+of a sufficient barrier, microorganisms may reach the lower respiratory 
+tract by a variety of pathways, including inhalation, microaspiration, 
+and direct mucosal dispersion.
+The constitution of the lung microbiota is determined by three fac
+tors: microbial entry into the lungs, microbial elimination, and regional 
+growth conditions for bacteria, such as pH, oxygen tension, and tem
+perature. The key question, however, is how a dynamic homeostasis 
+among bacterial communities results in acute infection. Pneumonia 
+therefore does not appear to be the result of the invasion of a sterile 
+space by a particular microorganism but is more likely an emergent 
+phenomenon dependent upon a number of mechanisms, including 
+self-accelerating positive feedback loops.
+A possible model for pneumonia is as follows. An inflammatory 
+event resulting in epithelial and or endothelial injury results in the 
+release of cytokines, chemokines, and catecholamines, some of which 
+may selectively promote the growth of certain bacteria, such as Strep
+tococcus pneumoniae and P. aeruginosa. This cycle of inflammation, 
+enhanced nutrient availability, and release of potential bacterial growth 
+factors may result in a positive feedback loop that further accelerates 
+inflammation and the growth of particular bacteria, which may then 
+become dominant. In cases of CAP and HAP, the trigger may be a viral 
+infection compounded by microaspiration of oropharyngeal organ
+isms. In cases of true aspiration pneumonia, the trigger may simply be 
+the macroaspiration event itself.
+Once triggered, innate and adaptive immune responses can ide
+ally help contain potential pathogens and prevent the development 
+of pneumonia. However, in the face of continuing inflammation 
+(and especially if a positive feedback loop becomes sustainable), the 
+process may proceed to a full-fledged pneumonia syndrome. Inflam
+matory mediators such as interleukin 6 and tumor necrosis factor 
+result in fever, and chemokines such as interleukin 8 and granulocyte 
+1009
+CHAPTER 126
+Pneumonia
+DEFINITION
+Pneumonia is an infection of the pulmonary parenchyma. Despite sig
+nificant morbidity and mortality, it is often misdiagnosed, mistreated, and 
+underestimated. Pneumonia has usually been classified as community- 
+acquired (CAP), hospital-acquired (HAP), or ventilator-associated 
+(VAP). A fourth category, health care–associated pneumonia (HCAP) 
+was introduced to encompass cases caused by multidrug-resistant 
+(MDR) pathogens typically associated with HAP and cases in unhos
+pitalized individuals at risk of MDR infection. Unfortunately, this 
+1010
+colony-stimulating factor increase local neutrophil numbers. Media
+tors released by macrophages and neutrophils may create an alveolar 
+capillary leak resulting in impaired oxygenation, hypoxemia, and 
+radiographic infiltrates. Moreover, some bacterial pathogens appear 
+to interfere with the hypoxic vasoconstriction that would normally 
+occur with fluid-filled alveoli, and this interference may result in severe 
+hypoxemia. Decreased compliance due to capillary leak, hypoxemia, 
+increased respiratory drive, increased secretions, and occasionally 
+infection-related bronchospasm all lead to worsening dyspnea. If 
+severe enough, changes in lung mechanics secondary to reductions in 
+lung volume, compliance, and intrapulmonary shunting of blood may 
+cause respiratory failure.
+Cardiovascular events with pneumonia, particularly in the elderly 
+and usually in association with pneumococcal pneumonia and influ
+enza, are increasingly recognized. These events, which may be acute 
+or whose occurrence may extend to at least 1 year, include congestive 
+heart failure, arrhythmia, myocardial infarction, or stroke and may be 
+caused by a variety of mechanisms, including increased myocardial 
+load and/or destabilization of atherosclerotic plaques by inflammation. 
+In animal models, direct myocardial invasion by pneumococci may 
+result in scarring and impaired myocardial function and conductivity.
+PATHOLOGY
+PART 5
+Infectious Diseases
+Classic pneumonia evolves through a series of stages. The initial stage 
+is edema with a proteinaceous exudate and often bacteria in the alveoli. 
+Next is a rapid transition to the red hepatization phase. Erythrocytes 
+in the intraalveolar exudate give this stage its name. In the third phase, 
+gray hepatization, no new erythrocytes are extravasating, and those 
+already present have been lysed and degraded. The neutrophil is the 
+predominant cell, fibrin deposition is abundant, and bacteria have 
+disappeared. This phase corresponds with the successful containment 
+of the infection and improvement in gas exchange. In the final phase, 
+resolution, the macrophage reappears as the dominant cell in the alve
+olar space and the debris of neutrophils, and bacteria and fibrin have 
+been cleared, as has the inflammatory response.
+This pattern has been described best for lobar pneumococcal pneu
+monia but may not apply to pneumonia of all etiologies. In VAP, respi
+ratory bronchiolitis may precede the development of a radiologically 
+apparent infiltrate. A bronchopneumonia pattern is most common in 
+nosocomial pneumonias, whereas a lobar pattern is more common in 
+bacterial CAP. Despite the radiographic appearance, viral and Pneumo
+cystis pneumonias represent alveolar rather than interstitial processes.
+COMMUNITY-ACQUIRED PNEUMONIA
+■ETIOLOGY
+The list of potential etiologic agents of CAP includes bacteria, fungi, 
+viruses, and protozoa. Newer viral pathogens include metapneumo
+viruses, the coronaviruses responsible for severe acute respiratory 
+syndrome (SARS) and Middle East respiratory syndrome (MERS), 
+and the recently discovered coronavirus that originated in Wuhan, 
+China, and is designated SARS-CoV-2. First described in December 
+2019, SARS-CoV-2 and its associated clinical disease, COVID-19, have 
+reached pandemic proportions and are a cause of significant morbid
+ity and mortality. The virus and the disease are discussed in detail in 
+Chap. 199.
+Although most CAP cases are caused by relatively few pathogens, an 
+accurate determination of their prevalence is difficult because labora
+tory testing methods are often insensitive and indirect (Table 126-1). 
+Separation of potential agents into “typical” bacterial pathogens and 
+“atypical” organisms may be helpful. The former group includes S. pneu
+moniae, Haemophilus influenzae, and, in selected patients, S. aureus and 
+gram-negative bacilli such as Klebsiella pneumoniae and P. aeruginosa. 
+The “atypical” organisms include Mycoplasma pneumoniae, Chlamydia 
+pneumoniae, and Legionella species as well as respiratory viruses such 
+as influenza virus, adenoviruses, human metapneumoviruses, respi
+ratory syncytial virus, and coronaviruses. With the increasing use of 
+pneumococcal vaccine, the incidence of pneumococcal pneumonia is 
+decreasing. Cases due to M. pneumoniae and C. pneumoniae, however, 
+TABLE 126-1 Microbial Causes of Community-Acquired  
+Pneumonia, by Site of Care
+HOSPITALIZED PATIENTS
+OUTPATIENTS
+Streptococcus 
+pneumoniae
+Mycoplasma pneumoniae 
+Haemophilus influenzae
+C. pneumoniae
+NON-ICU
+ICU
+S. pneumoniae 
+Staphylococcus aureus 
+Legionella spp.
+Gram-negative bacilli
+H. influenzae
+Respiratory virusesa
+S. pneumoniae
+M. pneumoniae
+Chlamydia pneumoniae
+H. influenzae
+Legionella spp.
+Respiratory virusesa
+Respiratory viruses
+aInfluenza A and B viruses, human metapneumovirus, adenoviruses, respiratory 
+syncytial viruses, parainfluenza viruses, coronaviruses (e.g., SARS-CoV-2).
+Abbreviation: ICU, intensive care unit.
+appear to be increasing, especially among young adults. Viruses are 
+recognized as increasingly important in pneumonia, and polymerase 
+chain reaction (PCR)–based testing indicates their presence in the 
+respiratory tract of 20–30% of healthy adults and in the same percent
+age of pneumonia patients, including those who are severely ill. The 
+most common are influenza, parainfluenza, and respiratory syncytial 
+viruses. Whether they are true etiologic pathogens, co-pathogens, 
+or simply colonizers cannot always be determined. Atypical organ
+isms cannot be cultured on standard media or seen on Gram’s stain, 
+but their frequency and importance have significant implications  
+for therapy. They are intrinsically resistant to all β-lactams and require 
+treatment with a macrolide, a fluoroquinolone, or a tetracycline. In 
+the 10–15% of CAP cases that are polymicrobial, the etiology usually 
+includes a combination of typical and atypical pathogens.
+Earlier literature suggested that aspiration pneumonia was caused 
+primarily by anaerobes, with or without aerobic pathogens. A shift, 
+however, has been noted recently: if aspiration pneumonia is acquired 
+in a community or hospital setting, the likely pathogens are those 
+usually associated with CAP or HAP. Anaerobes may still play a role, 
+especially in patients with poor dentition, lung abscess, necrotizing 
+pneumonia, or empyema.
+S. aureus pneumonia is known to complicate influenza virus infec
+tion. However, MRSA has been reported as a primary etiologic agent 
+of CAP. Although cases caused by MRSA are relatively uncommon, 
+clinicians must be aware of its potentially serious consequences, such 
+as necrotizing pneumonia. Two factors have led to this problem: the 
+spread of MRSA from the hospital setting to the community and the 
+emergence of genetically distinct strains of MRSA in the community. 
+Community-associated MRSA (CA-MRSA) strains may infect healthy 
+individuals who have had no association with health care.
+Despite a careful history, physical examination, and radiographic 
+studies, the causative pathogen is often difficult to predict with 
+certainty, and in more than half of cases a specific etiology is not 
+determined. Nevertheless, epidemiologic and risk factors may suggest 
+certain pathogens (Table 126-2).
+■EPIDEMIOLOGY
+More than 5 million CAP cases occur annually in the United States. 
+Along with influenza, CAP is the eighth leading cause of death in this 
+country. CAP causes more than 55,000 deaths annually and results in 
+more than 1.2 million hospitalizations; ~70% of patients are treated as 
+outpatients and 30% as inpatients. The mortality rate among outpa
+tients is usually <5% but ranges from ~12% to 40% among hospitalized 
+patients, with the exact rate depending on whether treatment takes 
+place in or outside the intensive care unit (ICU). In the United States, 
+CAP is the leading cause of death from infection among patients  
+>65 years of age. Moreover, 18% of hospitalized CAP patients are 
+readmitted within 1 month of discharge. The overall yearly CAP cost is 
+estimated at $17 billion. The overall incidence among adults is ~16–23 
+cases per 1000 persons per year, with the highest rates at the extremes 
+of age.
+The risk factors for CAP in general and for pneumococcal pneu
+monia in particular have implications for treatment. They include 
+TABLE 126-2 Epidemiologic Factors Suggesting Possible Causes of 
+Community-Acquired Pneumonia
+FACTOR
+Alcoholism
+COPD and/or smoking
+Structural lung disease (e.g., 
+bronchiectasis)
+Dementia, stroke, decreased
+level of consciousness
+Lung abscess
+Travel to Ohio or St. Lawrence 
+river valley
+Travel to southwestern
+United States
+Travel to Southeast Asia
+Stay in hotel or on cruise
+ship in previous 2 weeks
+Local influenza activity
+Exposure to infected humans
+Exposure to birds
+Exposure to rabbits
+Exposure to sheep, goats,
+ parturient cats
+POSSIBLE PATHOGEN(S)
+Streptococcus pneumoniae, oral anaerobes, 
+Klebsiella pneumoniae, Acinetobacter spp., 
+Mycobacterium tuberculosis
+Haemophilus influenzae, Pseudomonas 
+aeruginosa, Legionella spp., S. pneumoniae, 
+Moraxella catarrhalis, Chlamydia pneumoniae
+P. aeruginosa, Burkholderia cepacia, 
+Staphylococcus aureus
+Oral anaerobes, gram-negative enteric bacteria
+CA-MRSA, oral anaerobes, endemic fungi,
+M. tuberculosis, atypical mycobacteria
+Histoplasma capsulatum
+Hantavirus, Coccidioides spp.
+Burkholderia pseudomallei, avian  
+influenza virus
+Legionella spp.
+Influenza virus, S. pneumoniae, S. aureus
+SARS-CoV-2
+H. capsulatum, Chlamydia psittaci
+Francisella tularensis
+Coxiella burnetii
+Abbreviations: CA-MRSA, community-acquired methicillin-resistant Staphylococcus 
+aureus; COPD, chronic obstructive pulmonary disease; SARS-CoV-2, severe acute 
+respiratory syndrome coronavirus 2.
+alcoholism, asthma, immunosuppression, institutionalization, and age 
+>70 years. In the elderly, decreased cough and gag reflexes and reduced 
+antibody and Toll-like receptor responses increase the likelihood 
+of pneumonia. Risk factors for pneumococcal pneumonia include 
+dementia, seizure disorders, heart failure, cerebrovascular disease, 
+alcoholism, tobacco smoking, chronic obstructive pulmonary disease 
+(COPD), and HIV infection. CA-MRSA pneumonia is more likely in 
+patients with skin colonization or infection with CA-MRSA and after 
+viral infection. Enterobacteriaceae tend to infect patients who have 
+recently been hospitalized or given antibiotics or who have comor
+bidities such as alcoholism, heart failure, or renal failure. P. aeruginosa 
+is a particular problem in patients with severe structural lung disease 
+(e.g., bronchiectasis, cystic fibrosis, or severe COPD). Risk factors for 
+Legionella infection include diabetes, hematologic malignancy, cancer, 
+severe renal disease, HIV infection, smoking, male gender, and a recent 
+hotel stay or trip on a cruise ship.
+■CLINICAL MANIFESTATIONS
+The clinical presentation of pneumonia can vary from indolent to ful
+minant and from mild to fatal in severity. Manifestations of worsening 
+severity include both constitutional findings and those limited to the 
+lung and associated structures. The patient is frequently febrile and/
+or tachycardic and may experience chills and/or sweats. Cough may 
+be nonproductive or productive of mucoid, purulent, or blood-tinged 
+sputum. Gross hemoptysis is suggestive of necrotizing pneumonia 
+(e.g., that due to CA-MRSA). Depending on severity, the patient may 
+be able to speak in full sentences or may be short of breath. With pleu
+ral involvement, the patient may experience pleuritic chest pain. Up to 
+20% of patients may have gastrointestinal symptoms such as nausea, 
+vomiting, or diarrhea. Other symptoms may include fatigue, headache, 
+myalgias, and arthralgias.
+Findings on physical examination vary with the degree of pulmo
+nary consolidation and the presence or absence of a significant pleural 
+effusion. An increased respiratory rate and use of accessory muscles of 
+respiration are common. Palpation may reveal increased or decreased 
+tactile fremitus, and the percussion note can vary from dull to flat, 
+reflecting underlying consolidated lung and pleural fluid, respectively. 
+Crackles, bronchial breath sounds, and possibly a pleural friction rub 
+may be heard. The clinical presentation may be less obvious in the 
+elderly, who may initially display new-onset or worsening confusion 
+but few other manifestations. Severely ill patients may have septic 
+shock and evidence of organ failure. In cases of CAP, symptoms can 
+range from almost nonexistent to severe, and chest radiographic find
+ings are often in gravity-dependent parts of the lung.
+■DIAGNOSIS
+When confronted with possible CAP, the physician must ask two ques
+tions: is this pneumonia, and, if so, what is the likely pathogen? The 
+former question is answered by clinical and radiographic methods, 
+whereas the latter requires laboratory techniques.
+Clinical Diagnosis The differential diagnosis includes infectious 
+and noninfectious entities, including acute bronchitis, exacerbations 
+of chronic bronchitis, heart failure, and pulmonary embolism. The 
+importance of a careful history cannot be overemphasized. The diag
+nosis of CAP requires a compatible history, such as cough, sputum pro
+duction, fever and dyspnea, and a new infiltrate on chest radiography.
+Unfortunately, the sensitivity and specificity of findings on physical 
+examination are only 58% and 67%, respectively. Chest radiography 
+is often necessary to differentiate CAP from other conditions. Radio
+graphic findings may suggest increased severity (e.g., cavitation or 
+multilobar involvement). Occasionally, radiographic results suggest an 
+etiologic diagnosis, such as pneumatoceles in S. aureus infection or an 
+upper-lobe cavitating lesion in tuberculosis. CT may be of value in sus
+pected loculated effusion or cavitary cases or in postobstructive pneu
+monia caused by a tumor or foreign body. For outpatients, clinical and 
+radiologic assessments are usually all that is required before treatment 
+is started since most laboratory results are not available soon enough to 
+influence initial management. In certain cases, the availability of rapid 
+point-of-care outpatient tests can be important; for example, rapid 
+diagnosis of influenza infection can prompt specific anti-influenza 
+treatment and secondary prevention measures.
+Etiologic Diagnosis The etiology of pneumonia usually cannot be 
+determined solely on the basis of clinical or radiographic presentation. 
+Data from more than 17,000 emergency department CAP cases showed 
+an etiologic determination in only 7.6%. Except for CAP patients 
+admitted to the ICU, no data exist to show that treatment directed at 
+a specific pathogen is statistically superior to empirical therapy. The 
+benefit of establishing a microbial etiology may be questioned, partic
+ularly in light of the cost of diagnostic testing. However, a number of 
+reasons exist for attempting an etiologic diagnosis. Identification of a 
+specific or unexpected pathogen allows narrowing of the initial empiri
+cal regimen, with a consequent decrease in antibiotic selection pressure 
+and in the risk of resistance. Pathogens with important public safety 
+implications, such as Mycobacterium tuberculosis and influenza virus, 
+may be found. Finally, without susceptibility data, trends in resistance 
+cannot be followed accurately, and appropriate empirical therapeutic 
+regimens are harder to devise.
+1011
+CHAPTER 126
+Pneumonia
+GRAM’S STAIN AND CULTURE OF SPUTUM The main purpose of the 
+sputum Gram’s stain is to ensure suitability of a specimen for culture. 
+(To be suitable, a sputum sample must have >25 neutrophils and <10 
+squamous epithelial cells per low-power field.) However, staining may 
+also identify certain pathogens (e.g., S. pneumoniae, S. aureus, and 
+gram-negative bacteria). The sensitivity and specificity of the sputum 
+Gram’s stain and culture are highly variable. Even in cases of proven 
+bacteremic pneumococcal pneumonia, the yield of positive cultures 
+from sputum is ≤50%.
+Many patients, particularly elderly individuals, may be unable to 
+produce an appropriate sputum sample. Others may be taking antibi
+otics that interfere with culture results. Inability to produce sputum can 
+be caused by dehydration, whose correction may result in increased 
+1012
+sputum production and a more obvious infiltrate on chest radiography. 
+For patients admitted to the ICU and intubated, a deep-suction aspirate 
+or bronchoalveolar lavage sample has a high yield on culture when sent 
+to the laboratory as soon as possible. Since pathogens in severe and 
+mild CAP may differ (Table 126-1), the greatest benefit of staining and 
+culturing respiratory secretions is to alert the physician to unexpected 
+and/or resistant pathogens and to permit appropriate modification of 
+therapy. Other stains and cultures (e.g., for M. tuberculosis or fungi) 
+may be useful as well. The sputum Gram’s stain and culture are rec
+ommended only for hospitalized CAP patients, particularly those with 
+severe cases or those with risks of MRSA or P. aeruginosa infection.
+BLOOD CULTURES The yield from blood cultures, even when samples 
+are collected before antibiotic therapy, is disappointingly low. Only 
+5–14% of cultures from hospitalized CAP patients are positive, and 
+the most common pathogen is S. pneumoniae. Since recommended 
+empirical regimens all provide pneumococcal coverage, a blood culture 
+positive for this pathogen has little, if any, effect on clinical outcome. 
+However, susceptibility data may allow narrowing of antibiotic therapy 
+in appropriate cases. Because of the low yield and the lack of signifi
+cant impact on outcome, blood cultures are not considered de rigueur 
+for all hospitalized CAP patients. Certain high-risk patients should 
+have blood cultured, including those with neutropenia secondary to 
+pneumonia, asplenia, complement deficiencies, chronic liver disease, 
+or severe CAP and those at risk of MRSA or P. aeruginosa infection.
+PART 5
+Infectious Diseases
+URINARY ANTIGEN TESTS Two commercially available tests detect 
+pneumococcal and Legionella antigen in urine. The Legionella pneumo
+phila test detects only serogroup 1, which accounts for most community- 
+acquired cases of Legionnaires’ disease in the United States. The sensi
+tivity and specificity of this antigen test are 70% and 99%, respectively. 
+The pneumococcal urine antigen test also is quite sensitive and specific 
+(70% and >90%, respectively). Although false-positive results can be 
+obtained for pneumococcus-colonized children, the test is generally 
+reliable. Both tests can detect antigen even after the initiation of appro
+priate antibiotic therapy. Testing of urine for pneumococcal antigen 
+can be reserved for severe cases; Legionella antigen can be sought in 
+severe cases and in situations where relevant epidemiologic factors are 
+present.
+POLYMERASE CHAIN REACTION PCR tests amplify a microorganism’s 
+DNA or RNA, and multiplex PCR panels test for a number of viral and 
+bacterial pathogens. These tests dramatically improve response times, 
+but the contamination of respiratory specimens by upper-airway flora 
+may make semiquantitative or quantitative assays necessary for best 
+results. PCR of nasopharyngeal swabs has become the standard for 
+diagnosis of respiratory viral infection. PCR can also detect the nucleic 
+acid of Legionella species, M. pneumoniae, C. pneumoniae, and myco
+bacteria. The cost-effectiveness of PCR testing, however, has not been 
+definitively established.
+SEROLOGY A fourfold rise in specific IgM antibody titer between 
+acute- and convalescent-phase serum samples is generally considered 
+diagnostic of infection with a particular pathogen. Until recently, 
+serologic tests were used to help identify atypical pathogens as well as 
+selected unusual organisms such as Coxiella burnetii. However, these 
+tests have fallen out of favor because of the time required to obtain 
+a final result for the convalescent-phase sample and the difficulty of 
+interpretation.
+BIOMARKERS Two of the most commonly used markers are  
+C-reactive protein (CRP) and procalcitonin (PCT). Levels of these 
+acute-phase reactants increase in the presence of an inflammatory 
+response, particularly to bacterial pathogens. Nevertheless, PCT is 
+insufficiently accurate for use in the diagnosis of bacterial CAP, and 
+initial serum PCT levels should not be used as a basis for withholding 
+initial antibiotic treatment. CRP is considered even less sensitive than 
+PCT for detecting bacterial pathogens. Thus these tests should not be 
+used alone but, in conjunction with findings from the history, physical 
+examination, radiography, and laboratory tests, may facilitate antibiotic 
+stewardship and appropriate management of seriously ill CAP patients.
+TREATMENT
+Community-Acquired Pneumonia 
+SITE OF CARE
+The decision to hospitalize a patient with CAP has considerable 
+implications. The cost of inpatient management exceeds that of 
+outpatient treatment by a factor of 20, and hospitalization accounts 
+for most CAP-related expenditures. However, late admission to 
+the ICU is associated with increased mortality rates. The choice 
+can be difficult: some patients can be managed at home, while 
+others require hospitalization. Tools that objectively assess the 
+risk of adverse outcomes, including severe illness and death, can 
+help to minimize unnecessary hospital admissions. The two most 
+frequently used rules are the Pneumonia Severity Index (PSI), a 
+prognostic model that identifies patients at low risk of dying, and 
+the CURB-65 criteria, which yield a severity-of-illness score.
+To determine the PSI, points are given for 20 variables, includ
+ing age, coexisting illness, and abnormal physical and laboratory 
+findings. On the basis of the score, patients are assigned to one of 
+five classes with these mortality rates: class 1, 0.1%; class 2, 0.6%; 
+class 3, 2.8%; class 4, 8.2%; and class 5, 29.2%. Use of the PSI results 
+in lower admission rates for class 1 and class 2 patients. Class 3 
+patients could ideally be admitted to an observation unit pending 
+further decisions.
+The CURB-65 criteria include five variables: confusion (C); urea 
+>7 mmol/L (U); respiratory rate ≥30/min (R); blood pressure—
+systolic ≤90 mmHg or diastolic ≤60 mmHg (B); and an age of  
+≥65 years. Patients with a score of 0 (a 30-day mortality rate of 1.5%) 
+can be treated as outpatients. With a score of 1 or 2, the patient 
+should be hospitalized unless the score is entirely or in part attrib
+utable to an age of ≥65 years; in such cases, hospitalization may not 
+be necessary. Among patients with scores of ≥3, mortality rates are 
+22% overall; these patients may require ICU admission. The PSI 
+has greater efficacy than CURB-65 but is more difficult to calculate.
+If a patient is unable to maintain oral intake, if compliance 
+is thought to be an issue when assessed on the basis of mental 
+condition or living situation (e.g., cognitive impairment or home
+lessness), or if the patient’s O2
+ saturation on room air is <92%, 
+hospitalization is necessary. If these considerations do not apply, 
+clinical judgment in conjunction with a prediction rule should be 
+used to determine the site of care.
+Neither PSI nor CURB-65 is accurate in determining the need for 
+ICU admission. Patients with septic shock requiring vasopressors or 
+with acute respiratory failure requiring intubation and mechanical 
+ventilation should be admitted directly to an ICU (Table 126-3), 
+and those with three of the nine minor criteria listed in the latter 
+table should be admitted to an ICU or a high-level monitoring unit. 
+Mortality rates are higher among less ill patients who were admitted 
+TABLE 126-3 Criteria for Severe Community-Acquired Pneumonia
+Minor criteria
+Respiratory rate ≥30 breaths/min
+PaO2
+/Fio2
+ ratio ≤250
+Multilobar infiltrates
+Confusion/disorientation
+Uremia (BUN level ≥20 mg/dL)
+Leukopenia (WBC count <4000 cells/μL)
+Thrombocytopenia (platelet count <100,000 cells/μL)
+Hypothermia (core temperature <36°C)
+Hypotension requiring aggressive fluid resuscitation
+Major criteria
+Respiratory failure requiring invasive mechanical ventilation
+Septic shock requiring vasopressors
+Abbreviations: BUN, blood urea nitrogen; PaO2
+/FiO2
+, arterial oxygen pressure/
+fraction of inspired oxygen; WBC, white blood cell.
+to a medical floor but then deteriorated than among equally ill 
+patients initially monitored in the ICU. 
+ANTIBIOTIC RESISTANCE
+Antimicrobial resistance is a significant problem that threatens 
+to diminish our therapeutic armamentarium. Antibiotic misuse 
+results in increased antibiotic selection pressure that can affect 
+resistance locally and globally by clonal dissemination. For CAP, 
+the main resistance issues currently involve S. pneumoniae and 
+CA-MRSA. 
+S. pneumoniae In general, pneumococcal resistance to β-lactams 
+is acquired by (1) direct DNA incorporation and remodeling of 
+penicillin-binding proteins through contact with closely related 
+oral commensal bacteria (e.g., viridans group streptococci), (2) the 
+process of natural transformation, or (3) mutation of certain genes.
+The S. pneumoniae minimal inhibitory concentration (MIC) 
+breakpoint cutoffs for penicillin in pneumonia are ≤2 μg/mL for 
+susceptible, >2–4 μg/mL for intermediate, and ≥8 μg/mL for resis
+tant. A change in susceptibility thresholds dramatically decreased 
+the proportion of pneumococcal isolates considered nonsus
+ceptible. For meningitis, MIC thresholds remain at the former 
+lower levels. Fortunately, resistance to penicillin appeared to pla
+teau even before the change in MIC thresholds. Of isolates in the  
+United States, <20% are resistant to penicillins and <1% to cephalo
+sporins. Risk factors for penicillin-resistant pneumococcal infection 
+include recent antimicrobial therapy, an age of <2 or >65 years, atten
+dance at a day-care center, recent hospitalization, and HIV infection.
+In contrast to penicillin resistance, macrolide resistance 
+is increasing in S. pneumoniae through several mechanisms.  
+Target-site modification caused by ribosomal methylation in 23S 
+rRNA encoded by the ermB gene results in high-level resistance 
+(MIC, ≥64 μg/mL) to macrolides, lincosamides, and streptogramin 
+B–type antibiotics. The efflux mechanism encoded by the mef gene 
+(M phenotype) is usually associated with low-level resistance (MIC, 
+1–32 μg/mL). These two mechanisms account for ~40% and ~60%, 
+respectively, of resistant pneumococcal isolates in the United States. 
+High-level resistance to macrolides is more common in Europe, 
+whereas lower-level resistance predominates in North America. 
+The prevalence of macrolide-resistant S. pneumoniae exceeds 25% 
+in some countries; in Canada the prevalence is ~22%, and in the 
+United States it exceeds 30%. Much of this resistance is high
+level, and failures of treatment may result in such cases. In these 
+situations, a macrolide should not be used as empirical monother
+apy. Estimates of the prevalence of doxycycline resistance in the  
+United States are generally <20%.
+The rate of pneumococcal resistance to fluoroquinolones (e.g., 
+ciprofloxacin, moxifloxacin, and levofloxacin) is usually <2%. 
+Changes can occur in one or both target sites (topoisomerases II 
+and IV); these changes are attributable to mutations in the gyrA and 
+parC genes, respectively. In addition, an efflux pump may play a role 
+in pneumococcal resistance to fluoroquinolones.
+Isolates resistant to drugs from three or more antimicrobial 
+classes with different mechanisms of action are considered MDR 
+strains. The propensity for an association of pneumococcal resis
+tance to penicillin with reduced susceptibility to other drugs, such 
+as macrolides, tetracyclines, and trimethoprim-sulfamethoxazole, is 
+of concern. In the United States, 58.9% of penicillin-resistant pneu
+mococcal blood isolates are also resistant to macrolides.
+The most important risk factor for antibiotic-resistant pneumo
+coccal infection is use of a specific antibiotic within the previous  
+3 months. A history of prior antibiotic treatment is a critical factor 
+in avoiding the use of an inappropriate antibiotic. 
+CA-MRSA CAP due to MRSA may be caused by the classic  
+hospital-acquired strains or by genotypically and phenotypically 
+distinct community-acquired strains. Most infections with the 
+former have been acquired either directly or indirectly during 
+contact with the health care environment. However, in some hospi
+tals, CA-MRSA strains are displacing the classic hospital-acquired 
+strains; this change suggests that the newer community-acquired 
+strains may be more robust.
+Methicillin resistance in S. aureus is determined by the mecA 
+gene, which encodes for resistance to all β-lactam drugs. At least five 
+staphylococcal chromosomal cassette mec (SCCmec) types have been 
+described. The typical hospital-acquired strain usually has a type II or 
+III SCCmec element, whereas CA-MRSA has type IV. CA-MRSA iso
+lates tend to be less resistant than the older hospital-acquired strains 
+and are often susceptible to trimethoprim-sulfamethoxazole, clin
+damycin, and tetracycline in addition to vancomycin and linezolid. 
+However, the most important distinction is that CA-MRSA strains 
+also carry genes for superantigens such as enterotoxins B and C 
+and Panton-Valentine leukocidin; the latter is a membrane-tropic 
+toxin that can create cytolytic pores in neutrophils, monocytes, and 
+macrophages. 
+M. pneumoniae Macrolide-resistant M. pneumoniae has been 
+reported in a number of countries, including Germany (3%), Japan 
+(30%), China (95%), and France and the United States (5–13%). 
+Mycoplasma resistance to macrolides is increasing as a result of 
+binding-site mutation in domain V of 23S rRNA. 
+Gram-Negative Bacilli A detailed discussion of resistance among 
+gram-negative bacilli is beyond the scope of this chapter (see Chap. 
+161). Fluoroquinolone resistance among community isolates of 
+Escherichia coli is increasing. Enterobacter species are typically resis
+tant to cephalosporins, and the drugs of choice for use against these 
+organisms are usually fluoroquinolones or carbapenems. Similarly, 
+when infections due to bacteria producing extended-spectrum 
+β-lactamases (ESBLs) are documented or suspected, a carbapenem 
+should be considered. 
+INITIAL ANTIBIOTIC MANAGEMENT
+Since the etiology of CAP is rarely known at the outset of treat
+ment, initial therapy is usually empirical and designed to cover 
+the likeliest pathogens. In all cases, treatment should be initiated 
+as expeditiously as possible. New CAP treatment guidelines in 
+the United States have been presented in a joint statement from 
+the American Thoracic Society (ATS) and the Infectious Diseases 
+Society of America (IDSA). These guidelines consider the likely 
+pathogens, risk of antimicrobial resistance, severity of illness, site of 
+care, and risk of infection with specific bacteria such as MRSA and 
+P. aeruginosa (Fig. 126-1, Tables 126-4 and 126-5). In the figure 
+and the tables, the antibiotics are not listed in order of preference.
+The approach to treatment of aspiration pneumonia is based 
+upon a number of factors, including site of acquisition (community 
+Nonsevere
+No risk
+Prior 
+respiratory
+isolation
+Risk
+antibiotics (PO or IV)
+±
+local validation*
+Severe
+No risk R
+isk
+Recent 
+hospitalization
+and
+Prior 
+respiratory
+isolation
+Recent 
+hospitalization
+and
+antibiotics (PO or IV)
+±
+local validation*
+Add treatment
+Obtain cultures†
+Add treatment
+Add treatment
+FIGURE 126-1 Algorithm for assessment of inpatient risk of infection with MRSA 
+or Pseudomonas aeruginosa. Underlying lung disease (e.g., bronchiectasis or very 
+severe COPD) are also risks for P. aeruginosa infection. *Local validation consists of 
+information on local prevalence, resistance, and risk factors. †Can also use MRSA 
+rapid nasal PCR if available.
+1013
+CHAPTER 126
+Pneumonia
+1014
+TABLE 126-4 Initial Treatment Strategies for Outpatients with 
+Community-Acquired Pneumonia
+STATUS
+No comorbidities or risk 
+factors for antibiotic 
+resistancea
+With comorbiditiesd ± 
+risk factors for antibiotic 
+resistancea
+STANDARD REGIMEN
+Combination therapy with amoxicillin (1 g tid) + 
+either a macrolideb or doxycycline (100 mg bid)
+Or
+Or
+Monotherapy with doxycycline (100 mg bid)
+Monotherapy with a macrolideb,c
+Combination therapy with
+amoxicillin/clavulanatee or a cephalosporinf + 
+either a macrolideb or doxycycline (100 mg bid)
+Or
+Monotherapy with a respiratory fluoroquinoloneg
+aAntibiotic treatment within the past 3 months or contact with the health care 
+system. bAzithromycin (500 mg on day 1, then 250 mg/d for 4 days), clarithromycin 
+(500 mg bid), or clarithromycin ER (1000 mg/d). cIf local prevalence of pneumococcal 
+resistance is <25%. dIncluding chronic heart, lung, liver, or kidney disease; diabetes 
+mellitus; alcoholism; malignancy; or asplenia. e500/125 mg tid or 875/125 mg bid. 
+fCefpodoxime (200 mg bid) or cefuroxime (500 mg bid). gLevofloxacin (750 mg/d), 
+moxifloxacin (400 mg/d), or gemifloxacin (320 mg/d).
+PART 5
+Infectious Diseases
+vs hospital), normal or abnormal chest radiograph, and additional 
+variables such as illness severity, state of dentition, and risk of 
+infection with an MDR pathogen. Routine coverage of anaerobes 
+is unnecessary unless dentition is poor or there is a lung abscess or 
+necrotizing pneumonia.
+Our approach to the treatment of CAP (Tables 126-4 and 126-5) 
+is very similar to that proposed in the new CAP guidelines with the 
+exceptions listed below. 
+Outpatients The exceptions to the CAP guidelines that we follow 
+in treating patients are:
+• We usually initiate coverage that includes atypical organisms as 
+well as S. pneumoniae.
+• Generally, we do not consider the risk of infection with P. aerug
+inosa or MRSA particularly significant in outpatients.
+• Prior antibiotic use should include both oral and parenteral agents.
+TABLE 126-5 Initial Treatment for Inpatients with or without Risk 
+Factors for Infection with MRSA or Pseudomonas aeruginosa
+DISEASE SEVERITY, RISK STATUS
+Nonsevere
+No risk factors
+Prior respiratory isolation
+Recent hospitalization, antibiotic 
+treatment, ± LVf
+Severe
+No risk factors
+REGIMEN
+A β-lactama + a macrolideb
+or
+A respiratory fluoroquinolonec
+Add coverage for MRSAd or Pseudomonas 
+aeruginosae
+Add coverage for MRSAd or P. aeruginosae 
+only if cultures are positive
+A β-lactama + a macrolideb
+or
+A β-lactama + respiratory fluoroquinolonec
+Prior respiratory isolation
+Recent hospitalization, antibiotic 
+treatment ± LVf
+Add coverage for MRSAd or P. aeruginosae
+Add coverage for MRSAd or P. aeruginosae
+aAmpicillin-sulbactam (1.5–3 g q6h). bAzithromycin (500 mg/d) or clarithromycin 
+(500 mg bid). cLevofloxacin (750 mg/d), moxifloxacin (400 mg/d), or gemifloxacin 
+(320 mg/d). dVancomycin (15 mg/kg q12h, with adjustment based on serum levels) 
+or linezolid (600 mg q12h). ePiperacillin-tazobactam (4.5 g q6h), cefepime (2 g q8h), 
+ceftazidime (2 g q8h), imipenem (500 mg q6h), meropenem (1 g q8h), or aztreonam  
+(2 g q8h). fObtain cultures. MRSA rapid nasal PCR can also be used if available.
+Abbreviations: LV, local validation (local prevalence, resistance, risk factors); 
+MRSA, methicillin-resistant Staphylococcus aureus.
+Patients are stratified into two groups: those without comorbid
+ity or risk factors for antibiotic resistance and those with comor
+bidities (e.g., chronic heart, lung, liver, or kidney disease; diabetes; 
+alcoholism; malignancy; or asplenia) with or without risk factors 
+for resistance (Table 126-4). As a general rule, if patients have been 
+treated with a drug from a particular class of antibiotics within the 
+previous 3 months, drugs from a different class should be used to 
+minimize resistance issues.
+For those without comorbidity or resistance risk factors, amoxi
+cillin alone or doxycycline is recommended in the recent guidelines. 
+Monotherapy with amoxicillin is based on evidence of its efficacy in 
+the treatment of hospitalized CAP patients. This recommendation 
+is a change from that in the 2007 IDSA/ATS CAP guidelines. As a 
+rule, however, we usually tend to initiate treatment that includes 
+coverage for S. pneumoniae as well as the atypical pathogens  
+(Table 126-4).
+Monotherapy with a macrolide is recommended in the new 
+guidelines only if there are contraindications to amoxicillin or 
+doxycycline and there is documented low risk of macrolide resis
+tance (<25%). Otherwise, the treatment of outpatients is quite 
+similar to the regimens recommended in the 2007 IDSA/ATS 
+guidelines. 
+Inpatients Our exceptions to the recommendations in the CAP 
+guidelines are:
+• As a general rule, when initiating treatment for infection with  
+P. aeruginosa, we use double coverage.
+• The presence of all three risk factors is not required for drug 
+resistance (recent hospitalization, recent oral or IV antibiotic treat
+ment, ± local validation) (Fig. 126-1, Table 126-5).
+The main considerations for determining initial empirical treat
+ment of hospitalized CAP patients are clinical severity and risk fac
+tors for infection with drug-resistant pathogens such as MRSA or P. 
+aeruginosa. Hospitalization alone is not now considered a significant 
+risk factor for these pathogens. Hospitals should collect local data on 
+MRSA and P. aeruginosa with regard to prevalence, risk factors for 
+infection, and antibiotic susceptibilities. Patients can be categorized 
+as having nonsevere or severe CAP (Table 126-3), and those in each 
+of these categories may or may not have risk factors for MRSA or P. 
+aeruginosa (Fig. 126-1). In the scenarios involving these variables in 
+hospitalized CAP patients, empirical treatment for either of these 
+pathogens should be added to standard therapy unless a patient’s 
+illness is considered nonsevere and the risk factors are recent hos
+pitalization and antibiotic treatment ± local validation data (Fig. 
+126-1). Depending upon the patient, we may begin treatment in this 
+situation and then de-escalate it if appropriate. In such cases, cul
+tures should be performed but treatment usually withheld unless the 
+culture results or the rapid nasal PCR results for MRSA are positive. 
+Nonsevere, No Risk Factors For patients with nonsevere 
+infection and no risk factors, treatment should consist of either a 
+combination of a β-lactam and a macrolide or monotherapy with a 
+respiratory fluoroquinolone (Table 126-5). In the event of contrain
+dications to macrolides and fluoroquinolones, a β-lactam together 
+with doxycycline may be used. Treatment with a combination of 
+a β-lactam and a macrolide or a fluoroquinolone alone results in 
+lower mortality than monotherapy with a β-lactam. 
+Severe, No Risk Factors Patients with severe infection but 
+no risk factors should receive combination therapy with either a 
+β-lactam and a macrolide or a β-lactam and a respiratory fluoro
+quinolone (Table 126-5). 
+Nonsevere and Severe, with Risk Factors To date, there 
+are no prediction rules reliably identifying patients who should be 
+started empirically on treatment for MRSA or P. aeruginosa. Cur
+rent risk factors for infection with these pathogens are hierarchical. 
+Prior isolation of these organisms, especially from the respiratory 
+tract within the previous year, is a more robust risk factor than 
+recent hospitalization and exposure to parenteral antibiotics. For 
+P. aeruginosa, underlying lung disease (e.g., bronchiectasis or very 
+severe COPD) also is an important risk factor. If MRSA or P. aerug
+inosa has been isolated previously, appropriate empirical therapy 
+should be started in both severe and nonsevere cases (Table 126-5).  
+We prefer linezolid over vancomycin as first-line treatment for 
+MRSA because of its inhibition of bacterial exotoxin and its better 
+lung penetration. If the organism is not isolated from respiratory 
+secretions or blood and/or the nasal or bronchoalveolar lavage PCR 
+test for MRSA is negative and the patient is improving at 48 h, treat
+ment may be de-escalated to a standard regimen.
+If, on the other hand, the risk factors are recent hospitaliza
+tion and antibiotic use within the previous 3 months, appropriate 
+samples should be obtained for culture, and, in severe cases, 
+extended-spectrum treatment for MRSA or P. aeruginosa should 
+be initiated. Depending upon the severity of infection, local data 
+on P. aeruginosa resistance, and antibiotic use within the previous  
+90 days, single- or double-drug coverage should be used.
+If two antipseudomonal agents are started, the drugs should not 
+be from the same class. Whenever possible, assessment for possible 
+de-escalation of therapy is urged. If the patient’s illness is not severe, 
+empirical extended treatment should be withheld until culture 
+results are available.
+Regardless of the site of care, CAP patients testing positive for 
+influenza should be given anti-influenza treatment (e.g., oseltami
+vir) as well as appropriate antibacterial therapy. Physicians should 
+be vigilant about possible superinfection with MRSA.
+Although hospitalized patients have traditionally received initial 
+therapy by the IV route, some drugs, particularly the fluoroquino
+lones, are very well absorbed and may be given orally from the 
+outset to select patients. For those initially treated with IV agents, a 
+switch to oral treatment is appropriate when the patient can ingest 
+and absorb the drugs, is hemodynamically stable, and is showing 
+clinical improvement. A 5-day course of treatment is usually suffi
+cient for uncomplicated CAP, but longer treatment may be required 
+for patients who have not stabilized clinically and for those with 
+bacteremia, metastatic infection, or infection with a more virulent 
+pathogen such as P. aeruginosa or MRSA. 
+ADJUNCTIVE MEASURES
+In addition to appropriate antimicrobial therapy, certain adjunctive 
+measures should be used. Adequate hydration, oxygen therapy for 
+hypoxemia, vasopressor treatment, and assisted ventilation when 
+necessary are critical to successful treatment. Routine use of glu
+cocorticoids is not recommended for CAP except in patients with 
+refractory septic shock. 
+FAILURE TO IMPROVE
+Patients slow to respond to therapy should be reevaluated at about 
+day 3 (sooner if their condition is worsening), with several sce
+narios considered. A number of noninfectious conditions mimic 
+pneumonia, including pulmonary edema, pulmonary embolism, 
+lung carcinoma, radiation and hypersensitivity pneumonitis, and 
+connective tissue disease involving the lungs. If the patient truly 
+has CAP and empirical treatment is aimed at the correct patho
+gen, lack of response may be explained in a number of ways. The 
+pathogen may be resistant to the drug selected, or a sequestered 
+focus (e.g., lung abscess or empyema) may prevent antibiotic access 
+to the pathogen. The patient may be getting the wrong drug or the 
+correct drug at the wrong dose or frequency of administration. 
+Another possibility is that CAP has been diagnosed correctly but an 
+unexpected pathogen (e.g., CA-MRSA, M. tuberculosis, or a fungus) 
+is the cause. Nosocomial superinfections—both pulmonary and 
+extrapulmonary—are other possible explanations for a hospitalized 
+patient’s failure to improve. In all cases of delayed response or wors
+ening condition, the patient must be carefully reassessed and appro
+priate studies initiated, possibly including CT or bronchoscopy. 
+COMPLICATIONS
+Complications of severe CAP include respiratory failure, shock and 
+multiorgan failure, and exacerbation of comorbid illnesses. Three 
+particularly noteworthy conditions are metastatic infection, lung 
+abscess, and complicated pleural effusion. Metastatic infection 
+(e.g., brain abscess or endocarditis) is unusual and requires a high 
+degree of suspicion and a detailed workup for proper treatment. 
+Lung abscess may occur in association with aspiration pneumo
+nia or with infection caused by pathogens such as CA-MRSA,  
+P. aeruginosa, or (rarely) S. pneumoniae. A significant pleural 
+effusion should be tapped for both diagnostic and therapeutic pur
+poses. If the fluid has a pH <7.2, a glucose level of <2.2 mmol/L, and 
+a lactate dehydrogenase concentration of >1000 U/L or if bacteria 
+are seen or cultured, drainage is needed. 
+FOLLOW-UP
+Fever and leukocytosis usually resolve within 2–4 days in other
+wise healthy patients with CAP, but physical findings may persist 
+longer. Chest radiographic abnormalities are slowest to resolve  
+(4–12 weeks), with the speed of clearance depending on the patient’s 
+age and underlying lung disease. Patients may be discharged from 
+the hospital once their clinical condition, including any comorbid
+ity, is stable. The site of residence after discharge (nursing home, 
+home with family, home alone) is an important consideration, par
+ticularly for elderly patients. For a hospitalized patient, we generally 
+recommend a follow-up radiograph ~4–6 weeks later. If relapse or 
+recurrence is documented, particularly in the same lung segment, 
+the possibility of an underlying neoplasm must be considered. For 
+individuals managed as outpatients, routine follow-up chest radiog
+raphy is not necessary if they are nonsmokers, if they are otherwise 
+well, and if their symptoms resolved within 5–7 days.
+■PROGNOSIS
+The prognosis depends on the patient’s age, comorbidities, and site of 
+treatment (inpatient or outpatient). Young patients without comor
+bidity do well and usually recover fully after ~2 weeks. Older patients 
+and those with comorbid conditions may take several weeks longer to 
+recover fully. The overall mortality rate for the outpatient group is <5%. 
+For patients requiring hospitalization, overall mortality ranges from 
+12% to 40%, depending on the category of patient and the processes of 
+care, particularly the timely administration of appropriate antibiotics.
+■PREVENTION
+The main preventive measure is vaccination (Chap. 123). Recommen
+dations of the Advisory Committee on Immunization Practices should 
+be followed for influenza and pneumococcal vaccines.
+A pneumococcal polysaccharide vaccine (PPSV23) and a protein 
+conjugate pneumococcal vaccine (PCV13) are available in the United 
+States (Chap. 146). The former contains capsular material from 23 
+pneumococcal serotypes; in the latter, capsular polysaccharide from 
+13 of the most common pneumococcal pathogens affecting children is 
+linked to an immunogenic protein. PCV13 produces T-cell–dependent 
+antigens, resulting in long-term immunologic memory. Administration 
+of this vaccine to children has led to a decrease in the prevalence of 
+antimicrobial-resistant pneumococci and in the incidence of invasive 
+pneumococcal disease among both children and adults. However, vac
+cination can result in the replacement of vaccine with nonvaccine sero
+types, as seen with serotypes 19A and 35B following introduction of the 
+original 7-valent conjugate vaccine. PCV13 is also recommended for the 
+elderly and for younger immunocompromised patients. Because of an 
+increased risk of pneumococcal infection, even among patients without 
+obstructive lung disease, smokers should be strongly encouraged to quit.
+The influenza vaccine is available in an inactivated or recombinant 
+form. During an influenza outbreak, unprotected patients at risk from 
+complications should be vaccinated immediately and given chemopro
+phylaxis with either oseltamivir or zanamivir for 2 weeks—i.e., until 
+vaccine-induced antibody levels are sufficiently high.
+VENTILATOR-ASSOCIATED PNEUMONIA
+Research on hospital-acquired pneumonia has focused on VAP. How
+ever, the same information and principles can also be applied to venti
+lated HAP and to non-ICU HAP. Approximately 70% of HAP cases are 
+1015
+CHAPTER 126
+Pneumonia
+1016
+acquired outside the ICU and 30% in the ICU; the fact that 30% of all 
+HAP patients need mechanical ventilation defines ventilated HAP as 
+a distinct entity. In non-intubated patients with HAP, an expectorated 
+sputum sample is used for microbiologic diagnosis, but results are 
+confounded by frequent colonization by oral pathogens. Microbio
+logic information in VAP and ventilated HAP is obtained from direct 
+access to deep lower respiratory tract samples, which provide reliable 
+microbiologic data; however, these samples can also contain colonizing 
+pathogens.
+■ETIOLOGY
+Potential etiologic agents of VAP include both MDR and non- 
+MDR bacterial pathogens (Table 126-6). The non-MDR group of  
+“core pathogens” is nearly identical to the pathogens found in severe 
+CAP (Table 126-1); it is not surprising that such pathogens predomi
+nate if VAP develops in the first 5–7 days of the hospital stay. However, 
+if patients have other risk factors (particularly prior antibiotic treat
+ment), MDR pathogens are a consideration, even early in the hospital 
+course. The relative frequency of individual MDR pathogens can vary 
+significantly from hospital to hospital and even between different criti
+cal care units within the same institution. Most hospitals have problems 
+with P. aeruginosa and MRSA, but other MDR pathogens are often 
+institution-specific. Less commonly, fungal and viral pathogens cause 
+VAP, usually affecting severely immunocompromised patients. Rarely, 
+community-associated viruses cause mini-epidemics, usually when 
+introduced by ill health care workers.
+PART 5
+Infectious Diseases
+■EPIDEMIOLOGY
+Pneumonia is a common complication among patients requiring 
+mechanical ventilation. Prevalence estimates vary between 6 and  
+52 cases per 100 patients, depending on the population studied. On 
+any given day in the ICU, an average of 10% of patients will have  
+pneumonia—VAP in the overwhelming majority of cases, although in 
+recent years the frequency of this infection is declining as a result of 
+effective prevention strategies. The frequency of diagnosis is not static 
+but changes with the duration of mechanical ventilation, with the high
+est hazard ratio in the first 5 days and a plateau in additional cases (1% 
+per day) after ~2 weeks. However, the cumulative rate among patients 
+who remain ventilated for as long as 30 days is as high as 70%. These 
+rates often do not reflect the recurrence of VAP in the same patient. 
+Once a ventilated patient is transferred to a chronic-care facility or to 
+home, the incidence of pneumonia drops significantly, especially in 
+the absence of other risk factors for pneumonia. However, in chronic 
+ventilator units, purulent tracheobronchitis becomes a significant 
+issue, often interfering with efforts to wean patients off mechanical 
+ventilation (Chap. 302).
+Three factors are critical in the pathogenesis of VAP: colonization of 
+the oropharynx with pathogenic microorganisms, aspiration of these 
+organisms from the oropharynx into the lower respiratory tract, and 
+compromise of normal host defense mechanisms. Most risk factors and 
+TABLE 126-6 Microbiologic Causes of Ventilator-Associated 
+Pneumonia
+NON-MDR PATHOGENS
+Streptococcus pneumoniae
+Other Streptococcus spp.
+Haemophilus influenzae
+Methicillin-sensitive Staphylococcus 
+aureus
+Antibiotic-sensitive 
+Enterobacteriaceae
+Escherichia coli
+Klebsiella pneumoniae
+Proteus spp.
+Enterobacter spp.
+Serratia marcescens
+MDR PATHOGENS
+Pseudomonas aeruginosa
+Methicillin-resistant S. aureus
+Acinetobacter spp.
+Antibiotic-resistant Enterobacteriaceae
+ESBL-positive strains
+Carbapenem-resistant strains
+Legionella pneumophila
+Burkholderia cepacia
+Aspergillus spp.
+Abbreviations: ESBL, extended-spectrum β-lactamase; MDR, multidrug-resistant.
+TABLE 126-7 Pathogenic Mechanisms and Corresponding Prevention 
+Strategies for Ventilator-Associated Pneumonia
+PATHOGENIC MECHANISM
+Oropharyngeal colonization with 
+pathogenic bacteria
+Elimination of normal flora, 
+overgrowth by pathogenic bacteria
+Large-volume oropharyngeal 
+aspiration around time of intubation
+Gastroesophageal reflux
+Bacterial overgrowth of stomach
+Cross-infection from other colonized 
+patients
+Large-volume aspiration
+Ventilator circuit humidification
+Microaspiration around endotracheal 
+tube
+Endotracheal intubation
+Prolonged duration of ventilation
+PREVENTION STRATEGY
+Avoidance of prolonged antibiotic 
+courses; consider oral chlorhexidinea
+  
+Short course of prophylactic antibiotics 
+for comatose patientsb
+Postpyloric enteral feeding with orally 
+placed feeding tubea; avoidance of high 
+gastric residuals, prokinetic agents
+Avoidance of prophylactic agents 
+that raise gastric pHa; selective 
+decontamination of digestive tract with 
+nonabsorbable antibioticsa
+Hand washing, especially with alcohol
+based hand rub; intensive infection 
+control educationb; isolation; proper 
+cleaning of reusable equipment
+Endotracheal intubation; rapid
+sequence intubation technique; 
+avoidance of sedation; decompression 
+of small-bowel obstruction
+Change ventilator circuits only when 
+soiled and with new patient; drain 
+ventilator circuit condensate away 
+from patient; replace heat moisture 
+exchanger every 5–7 days or if soiled 
+or malfunctioninga
+Noninvasive ventilationb
+Daily awakening from sedation,b 
+weaning protocolsb
+Abnormal swallowing function
+Secretions pooled above 
+endotracheal tube
+Altered lower respiratory host 
+defenses
+Early percutaneous tracheostomyb
+Head of bed elevatedb; continuous 
+aspiration of subglottic secretions 
+with specialized endotracheal tubeb; 
+avoidance of reintubation; minimization 
+of sedation and patient transport; 
+prophylactic PEEPc of 5–8 cm
+Tight glycemic controla; lowering of 
+hemoglobin transfusion threshold
+aStrategies with negative randomized trials or conflicting results. bStrategies 
+demonstrated to be effective in at least one randomized controlled trial. cPositive 
+end-expiratory pressure.
+their corresponding prevention strategies pertain to one of these three 
+factors (Table 126-7).
+The most obvious risk factor is the endotracheal tube, which 
+bypasses the normal mechanical factors preventing aspiration. While 
+the presence of an endotracheal tube may prevent large-volume aspi
+ration, microaspiration is actually exacerbated by secretions pooling 
+above the cuff. The endotracheal tube and the concomitant need 
+for suctioning can damage the tracheal mucosa, thereby facilitating 
+tracheal colonization. In addition, pathogenic bacteria can form a 
+glycocalyx biofilm on the tube’s surface that protects them from both 
+antibiotics and host defenses. The bacteria can also be dislodged during 
+suctioning (done preferably with a closed catheter system) and can rei
+noculate the trachea, or tiny fragments of a glycocalyx can embolize to 
+distal airways, carrying bacteria with them. The ventilator circuit tub
+ing can harbor pathogenic organisms that can wash back to the patient 
+if manipulated too often; thus circuits are changed only when soiled 
+and with each new patient. Heat moisture exchangers are changed 
+every 5–7 days or if visibly soiled or malfunctioning.
+In a high percentage of critically ill patients, the normal oropharyngeal 
+flora is replaced by pathogenic microorganisms. The most important 
+risk factors are antibiotic selection pressure, cross-infection from other 
+infected/colonized patients or contaminated equipment, severe systemic 
+illness, and malnutrition. Of these factors, antibiotic exposure poses the 
+greatest risk by far. Pathogens such as P. aeruginosa almost never cause 
+infection in patients without prior exposure to antibiotics. The recent 
+emphasis on hand hygiene has lowered the cross-infection rate.
+Almost all intubated patients experience microaspiration and are 
+at least transiently colonized with pathogenic bacteria. However, only 
+around one-third of colonized patients develop VAP. Colony counts 
+increase to high levels, sometimes days before the development of clini
+cal pneumonia; these increases suggest that the final step in VAP devel
+opment, independent of aspiration and oropharyngeal colonization, 
+is the overwhelming of host defenses by a large bacterial inoculum. 
+Severely ill patients with sepsis and trauma appear to enter a state of 
+immunoparalysis several days after admission to the ICU—a time that 
+corresponds to the greatest risk of developing VAP. The mechanism 
+of this immunosuppression is not clear, although hyperglycemia and 
+frequent transfusions adversely affect the immune response.
+■CLINICAL MANIFESTATIONS
+The clinical manifestations of HAP and VAP are nonspecific: fever, 
+leukocytosis, increased respiratory secretions, and pulmonary con
+solidation on physical examination, along with a new or changing 
+radiographic infiltrate. The frequency of abnormal chest radiographs 
+before the onset of pneumonia in intubated patients and the limitations 
+of portable radiographic technique make interpretation of radiographs 
+more difficult than in patients who are not intubated. Other clinical 
+features may include tachypnea, tachycardia, worsening oxygenation, 
+and increased minute ventilation. Serial changes in oxygenation may 
+identify pneumonia earlier than other findings and may also be a 
+means to monitor improvement with therapy.
+■DIAGNOSIS
+No single set of criteria is reliably diagnostic of pneumonia in a ven
+tilated patient. The inability to accurately identify such patients com
+promises efforts to prevent and treat VAP and even calls into question 
+estimates of the impact of VAP on mortality rates.
+Application of the clinical criteria typical for CAP consistently results 
+in overdiagnosis of VAP, largely because of (1) frequent tracheal colo
+nization with pathogenic bacteria in patients with endotracheal tubes, 
+(2) multiple alternative causes of radiographic infiltrates in mechani
+cally ventilated patients, and (3) the high frequency of other sources of 
+fever in critically ill patients. The differential diagnosis of VAP includes 
+atypical pulmonary edema, pulmonary contusion, alveolar hemorrhage, 
+hypersensitivity pneumonitis, acute respiratory distress syndrome, and 
+pulmonary infarction. Findings of fever and/or leukocytosis may have 
+alternative causes, including antibiotic-associated diarrhea, central line
+associated infection, sinusitis, urinary tract infection, pancreatitis, and 
+drug fever. Conditions mimicking pneumonia are often documented 
+in patients in whom VAP has been ruled out by accurate diagnostic 
+techniques. Most of these alternative diagnoses do not require antibiotic 
+treatment; require antibiotics different from those used to treat VAP 
+(fungal or viral pneumonia); or require some additional intervention, 
+such as surgical drainage or catheter removal, for optimal management.
+This diagnostic dilemma has led to debate and controversy about 
+whether a quantitative-culture approach as a means of eliminating 
+false-positive clinical diagnoses is superior to a clinical approach 
+enhanced by principles learned from quantitative-culture studies. The 
+most recent IDSA/ATS guidelines for HAP/VAP give a weak recom
+mendation for a clinical approach based on semiquantitative cultures, 
+with consideration of the availability of resources, cost, and the avail
+ability of expertise. The guidelines acknowledge that the use of a quan
+titative approach may result in less antibiotic use, which may be critical 
+for antibiotic stewardship in the ICU. Therefore, the approach at each 
+institution—or potentially for each patient—should be individualized 
+and based on local colonization rates, local diagnostic expertise, and 
+recent history of antibiotic therapy.
+Quantitative-Culture Approach This method uses quantitative 
+cultures of deep respiratory tract samples to distinguish colonization 
+from true infection. The more distal in the respiratory tree the diag
+nostic sampling, the more specific the results and therefore the lower 
+the threshold of growth necessary to diagnose pneumonia and exclude 
+colonization. For example, a quantitative endotracheal aspirate yields 
+proximal samples, and the diagnostic threshold is 106 cfu/mL. The 
+protected specimen brush method, in contrast, collects distal samples 
+and has a threshold of 103 cfu/mL. Conversely, sensitivity declines as 
+more distal secretions are obtained, especially when they are collected 
+blindly (i.e., by a technique other than bronchoscopy). Additional tests 
+that may increase the diagnostic yield include Gram’s staining, differ
+ential cell counts, staining for intracellular organisms, and detection of 
+local protein levels elevated in response to infection.
+If the quantitative approach is used, therapy decisions should be 
+linked to culture results, with antibiotics withheld until results are 
+available unless the patient is critically ill. Studies have documented 
+less antibiotic use with this approach than with the clinical approach, 
+but the results are less clear if antibiotic decisions are not directly linked 
+to culture data. One common limitation of the quantitative approach 
+is the use of a new and effective antibiotic agent in the 24–48 h prior 
+to sampling, which can lead to false-negative results. With sensitive 
+microorganisms, a single antibiotic dose can reduce colony counts 
+below the diagnostic threshold. After 3 days, the operating character
+istics of the tests improve to the point at which they are equivalent to 
+results obtained when no prior antibiotic therapy has been given. Con
+versely, colony counts above the diagnostic threshold during antibiotic 
+therapy suggest that the current antibiotics are ineffective. In addition, 
+quantitative cultures may give results below the diagnostic threshold 
+if samples are collected early in the course of infection or if sampling 
+is delayed until after an effective host response has reduced bacterial 
+counts. Ideally, a specimen should be obtained as soon as pneumonia is 
+suspected and before antibiotic therapy is initiated or changed.
+Clinical Approach The lack of specificity of a clinical diagnosis 
+of VAP has hampered its utility, but this approach has been improved 
+by the addition of microbiologic and other laboratory data. Tracheal 
+aspirates generally yield at least twice as many potential pathogens as 
+quantitative cultures, but the causative pathogen is almost always pres
+ent. The absence of bacteria in Gram-stained endotracheal aspirates 
+makes pneumonia an unlikely cause of fever or pulmonary infiltrates. 
+These findings, coupled with a heightened awareness of the alterna
+tive diagnoses possible in patients with suspected VAP, can prevent 
+inappropriate antibiotic overtreatment. Furthermore, the absence of 
+an MDR pathogen in tracheal aspirate cultures eliminates the need for 
+MDR coverage, allowing de-escalation of empirical antibiotic therapy. 
+Similarly, with newer and more sensitive molecular diagnostic meth
+ods, a suspected MDR pathogen can be eliminated as a therapy target 
+if test results are negative. A clinical approach that focuses on careful 
+antimicrobial use and de-escalation of therapy after culture results 
+become available may have an impact on the avoidance of antimi
+crobial overuse and the consideration of alternative sites of infection 
+similar to that of a quantitative-culture approach.
+1017
+CHAPTER 126
+Pneumonia
+TREATMENT
+Ventilator-Associated Pneumonia
+Many studies have demonstrated higher mortality rates with the 
+delay of initially appropriate empirical antibiotic therapy. The key to 
+appropriate antibiotic management of VAP is an appreciation of the 
+resistance patterns of the most likely pathogens in a given patient. 
+ANTIBIOTIC RESISTANCE
+Because of a higher risk of infection with MDR pathogens  
+(Table 126-6), VAP is treated with antibiotics different from 
+those used for severe CAP. Antibiotic selection pressure leads to 
+the frequent involvement of MDR pathogens by selecting either 
+for drug-resistant isolates of common pathogens (MRSA and 
+Enterobacteriaceae producing ESBLs or carbapenemases) or for 
+intrinsically resistant pathogens (P. aeruginosa and Acinetobacter 
+species). Frequent use of β-lactam drugs, especially cephalosporins, 
+appears to be the major risk factor for infection with MRSA and 
+ESBL-positive strains.
+1018
+P. aeruginosa can develop resistance to all routinely used anti
+biotics, and, even if initially sensitive, P. aeruginosa isolates may 
+develop resistance during treatment. Either derepression of resis
+tance genes or selection of resistant clones within the large bacterial 
+inoculum associated with most pneumonias may be the cause. 
+Acinetobacter species, Stenotrophomonas maltophilia, and Burk
+holderia cepacia are intrinsically resistant to many of the empirical 
+antibiotic regimens employed (see below). VAP caused by these 
+pathogens emerges during treatment of other infections, and resis
+tance is always evident at initial diagnosis. 
+EMPIRICAL THERAPY
+PART 5
+Infectious Diseases
+Recommended options for empirical therapy are listed in  
+Table 126-8. Treatment should be started once diagnostic specimens 
+have been obtained. The major factors in the selection of agents are 
+the presence of risk factors for MDR pathogens and the predicted 
+risk of death (≤15% is considered low risk). Choices among the vari
+ous options listed depend on local patterns of resistance and—a very 
+important factor—the patient’s prior antibiotic exposure. Knowledge 
+of the local hospital’s—and even the specific ICU’s—antibiogram 
+and the local incidence of specific MDR pathogens (e.g., MRSA) is 
+critical in selecting appropriate empirical therapy.
+The majority of patients without risk factors for MDR infection 
+can be treated with a single agent. In fact, mortality is lower with 
+a single agent than with combination therapy for those with a low 
+mortality risk. Unfortunately, the proportion of patients with no 
+MDR risk factors is <10% in some ICUs and is unknown for HAP 
+patients. The major difference from CAP is the markedly lower 
+incidence of atypical pathogens in VAP; the exception is Legion
+ella, which can be a nosocomial pathogen, especially with local 
+epidemics due to breakdowns in the treatment of potable water in 
+the hospital. The standard recommendation for patients with risk 
+factors for MDR infection and a high mortality risk is for three 
+antibiotics: two directed at P. aeruginosa and one at MRSA. How
+ever, in the absence of septic shock, a single agent may be effective 
+for these patients, provided there is a single agent that is likely to 
+be effective against at least 90% of the gram-negative pathogens in 
+that ICU. Empirical combination therapy enhances the likelihood 
+of initially appropriate therapy over that with monotherapy. A 
+β-lactam agent provides the greatest coverage, yet even the broadest- 
+TABLE 126-8 Empirical Antibiotic Treatment of Hospital-Acquired 
+and Ventilator-Associated Pneumonia
+NO RISK FACTORS 
+FOR RESISTANT 
+GRAM-NEGATIVE 
+PATHOGEN
+RISK FACTORS FOR RESISTANT GRAM-NEGATIVE 
+PATHOGENa (CHOOSE ONE FROM EACH COLUMN)
+Piperacillin
+tazobactam (4.5 g 
+IV q6h)
+Cefepime (2 g IV 
+q8h)
+Levofloxacin  
+(750 mg IV q24h)
+Piperacillin-tazobactam 
+(4.5 g IV q6h)
+Cefepime (2 g IV q8h)
+Ceftazidime (2 g IV q8h)
+Imipenem (500 mg IV q6h)
+Meropenem (1 g IV q8h)
+Amikacin (15–20 mg/kg IV 
+q24h)
+Gentamicin (5–7 mg/kg IV 
+q24h)
+Tobramycin (5–7 mg/kg IV 
+q24h)
+Ciprofloxacin (400 mg IV q8h)
+Levofloxacin (750 mg IV q24h)
+Colistin (loading dose of 
+5 mg/kg IV followed by 
+maintenance doses of 2.5 mg × 
+[1.5 × CrCl + 30] IV q12h)
+Polymyxin B (2.5–3.0 mg/kg 
+per day IV in 2 divided doses)
+Risk Factors for MRSAb (Add to above)
+Linezolid (600 mg IV q12h) or
+Adjusted-dose vancomycin (trough level, 15–20 mg/dL)
+aPrior antibiotic therapy, prior hospitalization, local antibiogram. bPrior antibiotic 
+therapy, prior hospitalization, known MRSA colonization, chronic hemodialysis, 
+local documented MRSA pneumonia rate >10% (or local rate unknown).
+Abbreviations: CrCl, creatinine clearance rate; MRSA, methicillin-resistant 
+Staphylococcus aureus.
+spectrum agent—a carbapenem—still constitutes inappropriate 
+initial therapy in up to 10–15% of cases at some centers. The 
+emergence of carbapenem resistance at some institutions requires 
+the addition of polymyxins to the combination-therapy options. 
+A number of emerging agents may modify our approach to ther
+apy. New antipseudomonal agents include ceftazidime–avibactam, 
+ceftolozane–tazobactam, imipenem–relebactam, and plazomicin. 
+Therapy for carbapenem-resistant Enterobacteriaceae can consist 
+of ceftazidime–avibactam, imipenem–relebactam, or meropenem
+vaborbactam, while organisms that produce metallo-β-lactamases 
+can be treated with ceftazidime–avibactam or cefiderocol. 
+SPECIFIC TREATMENT
+Once an etiologic diagnosis is made, broad-spectrum empirical 
+therapy can be modified (de-escalated) to specifically address the 
+known pathogen. For patients with MDR risk factors, antibiotic 
+regimens can be reduced to a single agent in most cases. Only a 
+minority of cases require a complete course with two or three drugs. 
+A negative tracheal-aspirate culture or growth below the threshold 
+for quantitative cultures of samples obtained before any antibiotic 
+change strongly suggests that antibiotics should be discontinued 
+or that an alternative diagnosis should be pursued. Identification 
+of other confirmed or suspected sites of infection may require 
+ongoing antibiotic therapy, but the spectrum of pathogens (and the 
+corresponding antibiotic choices) may be different from those for 
+VAP. A 7- or 8-day course of therapy is just as effective as a 2-week 
+course and is associated with less frequent emergence of antibiotic- 
+resistant strains. Exceptions include cases in which initial therapy 
+is inappropriate or consists of second-line antibiotics and cases 
+caused by some more resistant organisms, such as carbapenemase- 
+producing Acinetobacter species.
+A major controversy regarding specific therapy for VAP con
+cerns the need for ongoing combination treatment of Pseudomonas 
+pneumonia. No randomized controlled trials have demonstrated a 
+benefit of combination therapy with a β-lactam and an aminogly
+coside, nor have subgroup analyses in other trials found a survival 
+benefit with such a regimen. Combination therapy may have value 
+in bacteremic infection with septic shock, but the benefit may last 
+for only a few days. The unacceptably high rates of clinical failure 
+and death despite combination therapy among patients with VAP 
+caused by P. aeruginosa (see “Failure to Improve,” below) indicate 
+that better regimens are needed, perhaps including aerosolized 
+antibiotics. In most cases of Pseudomonas pneumonia, current 
+guidelines recommend against continuing combination therapy 
+after the isolate’s microbial susceptibility is known. 
+FAILURE TO IMPROVE
+Treatment failure is not uncommon in VAP, especially that caused 
+by MDR pathogens. VAP caused by MRSA is associated with a 40% 
+clinical failure rate when treated with standard-dose vancomycin. 
+One proposed but unproven solution is the use of high-dose indi
+vidualized treatment, although the risk of renal toxicity increases 
+with this strategy. In addition, the MIC of MRSA to vancomycin 
+has been increasing, and a high percentage of clinical failures 
+occur when the MIC is in the upper range of sensitivity (i.e., 1.5–2 
+μg/mL). Linezolid appears to be 15% more efficacious than even 
+adjusted-dose vancomycin and is preferred in patients with renal 
+insufficiency and those infected with high-MIC isolates of MRSA. 
+VAP due to Pseudomonas has a 40–50% failure rate, no matter what 
+the regimen. Causes of clinical failure vary with the pathogen(s) 
+and the antibiotic(s). Inappropriate initial therapy can usually 
+be minimized by use of the recommended combination regimen 
+(Table 126-8). However, the emergence of β-lactam resistance dur
+ing therapy is an important problem, especially in infection with 
+Pseudomonas and Enterobacter species. Recurrent VAP caused by 
+the same pathogen is possible because the biofilm on endotracheal 
+tubes allows persistence and reintroduction of the microorganism. 
+Studies of VAP caused by Pseudomonas show that approximately 
+half of recurrent cases are caused by a new strain. Some studies 
+have suggested that treatment failure may be less common with 
+optimized β-lactam dosing and use of either prolonged or continu
+ous infusion therapy.
+Treatment failure and its cause are very difficult to determine 
+early in the therapeutic course. Pneumonia due to superinfection, 
+the presence of extrapulmonary infection, and drug toxicity must 
+be considered. Serial quantitative cultures may clarify the microbi
+ologic response, but biomarkers such as PCT are of uncertain value 
+in this setting. 
+COMPLICATIONS
+Apart from death, the major complication of VAP is prolongation of 
+mechanical ventilation, with corresponding increases in the dura
+tion of ICU and hospital stay. In most studies, the common need for 
+an additional week of mechanical ventilation resulting from VAP 
+justifies aggressive efforts at prevention.
+In rare cases, necrotizing pneumonia (e.g., due to P. aeruginosa 
+or S. aureus ) can cause significant pulmonary hemorrhage. More 
+commonly, necrotizing infections result in the long-term complica
+tions of bronchiectasis and parenchymal scarring leading to recur
+rent pneumonia. Other long-term complications of pneumonia 
+can include long-term oxygen therapy, a catabolic state in a patient 
+already nutritionally at risk, the need for prolonged rehabilitation, 
+and—in the elderly—an inability to return to independent function 
+and the need for nursing home placement. 
+FOLLOW-UP
+Clinical improvement, if it occurs, is usually evident within  
+48–72 h of the initiation of antimicrobial treatment, usually with 
+an improvement in oxygenation. Because findings on chest radiog
+raphy often worsen initially during treatment, they are less helpful 
+than clinical criteria as an indicator of response to therapy.
+■PROGNOSIS
+VAP is associated with crude mortality rates as high as 50–70%, but the 
+real issue is attributable mortality. Many patients with VAP have underly
+ing diseases that would result in death even if VAP did not occur. Attrib
+utable mortality exceeded 25% in one matched-cohort study, while more 
+recent studies have suggested much lower rates. Some variability in VAP 
+mortality rates is clearly related to the type of patient and ICU studied. 
+VAP in trauma patients is not associated with attributable mortality, pos
+sibly because many of the patients were otherwise healthy before being 
+injured. The causative pathogen also plays a major role. Generally, MDR 
+pathogens are associated with significantly greater attributable mortality 
+than non-MDR pathogens. Pneumonia caused by some pathogens (e.g., 
+S. maltophilia) is simply a marker for a patient whose immune system is 
+so compromised that death is almost inevitable.
+■PREVENTION (TABLE 126-7)
+Because endotracheal intubation is a risk factor for VAP, the most 
+important preventive intervention is to avoid intubation or minimize 
+its duration. Successful noninvasive ventilation avoids many of the 
+problems associated with endotracheal tubes. Strategies that minimize 
+the duration of ventilation through daily holding of sedation and formal 
+weaning protocols have also been highly effective in preventing VAP.
+Unfortunately, a tradeoff in risks is sometimes necessary. Aggressive 
+attempts to extubate early may result in reintubation(s) and increase 
+aspiration, posing a risk of VAP. Heavy continuous sedation increases 
+VAP risk, but self-extubation because of insufficient sedation is also a 
+risk. The tradeoffs also apply to antibiotic therapy. Short-course antibi
+otic prophylaxis can decrease the risk of early-onset VAP in comatose 
+patients requiring intubation, and data suggest that antibiotics decrease 
+VAP rates overall. Conversely, prolonged courses of antibiotics consis
+tently increase the risk of MDR VAP; pseudomonal VAP is rare among 
+patients who have not recently received antibiotics.
+Minimizing microaspiration around the endotracheal tube cuff 
+also can prevent VAP. Simply elevating the head of the bed (at least 
+30° above horizontal, but preferably 45°) and using specially modified 
+endotracheal tubes that allow removal of the secretions pooled above 
+the cuff can prevent microaspiration. The risk-to-benefit ratio of trans
+porting the patient outside the ICU for diagnostic tests or procedures 
+should be carefully considered since VAP rates are increased among 
+transported patients.
+The role played by overgrowth of the normal bowel flora in the 
+stomach—in the presence of elevated gastric pH—in the pathogen
+esis of VAP is questionable. Therefore, avoidance of agents that raise 
+gastric pH may be relevant only in certain populations, such as liver 
+transplant recipients and patients who have undergone other major 
+intraabdominal procedures or who have bowel obstruction. MRSA and 
+nonfermenters such as P. aeruginosa and Acinetobacter species are not 
+normally part of the bowel flora but reside primarily in the nose and 
+on the skin, respectively.
+In outbreaks of VAP due to specific pathogens, the possibility of a 
+breakdown in infection control measures (particularly contamination 
+of reusable equipment) should be investigated. Even high rates of 
+pathogens that are already common in a particular ICU may result from 
+cross-infection. Education and reminders of the need for consistent hand 
+washing and other infection-control practices can minimize this risk.
+HOSPITAL-ACQUIRED PNEUMONIA
+While less well studied than VAP, HAP in non-intubated patients—
+both inside and outside the ICU—is similar to VAP. The main dif
+ferences are the higher frequency of non-MDR pathogens and the 
+generally better underlying host immunity in non-intubated patients. 
+The lower frequency of MDR pathogens allows monotherapy in a 
+larger proportion of cases of HAP than of VAP. However, the bacteri
+ology and outcome of ventilated HAP patients may be very similar to 
+those of patients with VAP.
+The only pathogens that may be more common in the non-VAP pop
+ulation are anaerobes because of a greater risk of macroaspiration and 
+the lower oxygen tensions in the lower respiratory tract of these patients. 
+Anaerobes usually contribute only to polymicrobial pneumonias, and 
+specific therapy targeting anaerobes probably is not needed since many 
+of the recommended antibiotics are active against anaerobes.
+Diagnosis is even more difficult for HAP in the non-intubated 
+patient than for VAP. Lower respiratory tract samples appropriate for 
+culture are considerably more difficult to obtain from non-intubated 
+patients. Many of the underlying diseases that predispose a patient to 
+HAP are also associated with an inability to cough adequately. Since 
+blood cultures are infrequently positive (<15% of cases), the majority of 
+patients with HAP do not have culture data on which antibiotic mod
+ifications can be based, and de-escalation is less likely. Despite these 
+difficulties, the better host defenses in non-ICU patients result in lower 
+mortality rates than are documented for VAP and for ventilated HAP. 
+In addition, the risk of antibiotic failure is lower in HAP.
+1019
+CHAPTER 126
+Pneumonia
+GLOBAL IMPACT
+From the available data, it is virtually impossible to accurately assess 
+the impact of pneumonia from a global perspective. Any differences 
+in incidence, disease burden, and costs across different age, ethnic, 
+and racial groups are compounded by differences among countries in 
+terms of etiologic pathogens, resistance rates, access to health-care and 
+diagnostic facilities, and vaccine availability and use.
+A standard approach with clearly defined outcome measures is 
+needed before the impact of pneumonia can be accurately evaluated. 
+However, simple extrapolation from U.S. data for CAP and HAP/
+VAP shows that pneumonia has a significant impact on quality of life, 
+morbidity, health costs, and mortality rates and that this impact has 
+implications for patients and for society as a whole.
+Acknowledgment 
+The authors gratefully acknowledge the contributions of Richard Wunderink, 
+MD, to this chapter in the previous edition.
+■FURTHER READING
+Chastre J et al: Comparison of 8 vs 15 days of antibiotic therapy 
+for ventilator-associated pneumonia in adults: A randomized trial. 
+JAMA 290:2588, 2003.
+1020
+Dickson RP et al: Towards an ecology of the lung: New conceptual 
+models of pulmonary microbiology and pneumonia pathogenesis. 
+Lancet Respir Med 2:238, 2014.
+Fagon JY et al: Invasive and noninvasive strategies for management of 
+suspected ventilator-associated pneumonia. A randomized trial. Ann 
+Intern Med 132:621, 2000.
+Jain S et al: Community-acquired pneumonia requiring hospitaliza
+tion among U.S. adults. N Engl J Med 373:415, 2015.
+Kalil AC et al: Management of adults with hospital-acquired and ven
+tilator-associated pneumonia: 2016 clinical practice guidelines by the 
+Infectious Diseases Society of America and the American Thoracic 
+Society. Clin Infect Dis 63:e61, 2016.
+Mandell LA, Niederman MS: Aspiration pneumonia. N Engl J Med 
+380:651, 2019.
+Mandell LA et al: Infectious Diseases Society of America/ 
+American Thoracic Society consensus guidelines on the manage
+ment of community-acquired pneumonia in adults. Clin Infect Dis 
+44(Suppl 2):S27, 2007.
+Metlay JP et al: Diagnosis and treatment of adults with community- 
+acquired pneumonia. An Official Clinical Practice Guideline of the 
+American Thoracic Society and Infectious Diseases Society of America. 
+Am J Respir Crit Care Med 200:e45, 2019.
+Shindo Y et al: Risk factors for drug-resistant pathogens in communi
+ty-acquired and healthcare-associated pneumonia. Am J Respir Crit 
+Care Med 188:985, 2013.
+Wunderink RG, Waterer GW: Community-acquired pneumonia.  
+N Engl J Med 370:541, 2014.
+PART 5
+Infectious Diseases
+127
+Lung Abscess
+Rebecca M. Baron, Beverly W. Baron,  
+Miriam Baron Barshak
+gastroesophageal reflux, especially those who spend substantial time in 
+the recumbent position.
+It is widely thought that colonization of the gingival crevices by 
+anaerobic bacteria or microaerophilic streptococci (especially in 
+patients with gingivitis and periodontal disease), combined with a risk 
+of aspiration, is important in the development of lung abscesses. In 
+fact, many physicians consider it extremely rare for lung abscesses to 
+develop in the absence of teeth as a nidus for bacterial colonization.
+The importance of these risk factors in the development of lung 
+abscesses is highlighted by a significant reduction in abscess inci
+dence in the late 1940s that coincided with a change in oral surgical 
+technique: beginning at that time, these operations were no longer 
+performed with the patient in the seated position without a cuffed 
+endotracheal tube, and the frequency of perioperative aspiration events 
+was thus decreased. In addition, the introduction of penicillin around 
+the same time significantly reduced the incidence of and mortality rate 
+from lung abscess.
+■PATHOGENESIS
+Primary Lung Abscesses The development of primary lung 
+abscesses is thought to originate when chiefly anaerobic bacteria (as 
+well as microaerophilic streptococci) in the gingival crevices are aspi
+rated into the lung parenchyma in a susceptible host (Table 127-1). 
+Patients who develop primary lung abscesses usually carry an over
+whelming burden of aspirated material or are unable to clear the bacte
+rial load. Pneumonitis develops initially (exacerbated in part by tissue 
+damage caused by gastric acid); then, over a period of 7–14 days, the 
+anaerobic bacteria produce parenchymal necrosis and cavitation whose 
+extent depends on host–pathogen interaction (Fig. 127-1). Anaerobes 
+are thought to produce more extensive tissue necrosis in polymicrobial 
+infections in which virulence factors of the various bacteria can act 
+synergistically to cause more significant tissue destruction.
