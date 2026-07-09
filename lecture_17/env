@@ -1,0 +1,21 @@
+# Copy this file to .env and fill in your real values
+# NEVER commit .env to git — only commit .env.example
+
+# OpenAI
+OPENAI_API_KEY="your openai api key here"
+
+# Qdrant Cloud (from cloud.qdrant.io)
+QDRANT_URL=qdrant url here
+QDRANT_API_KEY=your qdrant api key here
+
+# Collection name (must exist in Qdrant — created in Lecture 8)
+QDRANT_COLLECTION=collection name here
+
+# Embedding provider: "huggingface" (free, default) or "openai" (paid)
+EMBEDDING_PROVIDER=huggingface
+
+# LLM model
+LLM_MODEL=gpt-4o-mini
+
+# Number of chunks to retrieve per query
+RETRIEVER_K=5
