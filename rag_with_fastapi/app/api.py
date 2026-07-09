@@ -48,4 +48,7 @@ def get_llm():
 async def upload_files(
       files: List[UploadFile] = File(..., description="One or more files: PDF, DOCX, MD, CSV, TXT"),
       client: QdrantClient = Depends(get_client),
-)
+)-> UploadResponse:
+
+    if not files:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail="No files to upload")
